@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Only import from `expo/config` to follow proper dependency chains.
+
 ### 💡 Others
 
 - Deprecate `Constants.appOwnership`. ([#30021](https://github.com/expo/expo/pull/30021) by [@amandeepmittal](https://github.com/amandeepmittal))
